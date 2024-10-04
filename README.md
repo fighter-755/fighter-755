@@ -1,4 +1,4 @@
-MADE BY ABHISHEK YASAV
+MADE BY ABHISHEK YADAV
 
 <!---
 fighter-755/fighter-755 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
